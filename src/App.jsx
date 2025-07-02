@@ -190,7 +190,7 @@ export default function App() {
   // --- 2. Inisialisasi Google Analytics ---
   useEffect(() => {
     // Ganti dengan ID Pengukuran GA4 Anda
-    const measurementId = "G-PHJRH4ZWFN"; 
+    const measurementId = "G-RSVTER8JST"; 
     
     ReactGA.initialize(measurementId);
     
